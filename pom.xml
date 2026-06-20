@@ -36,13 +36,13 @@
 
   <distributionManagement>
      <repository>
-       <id>nexus-releases</id>
+       <id>nexus-release</id>
        <name>Nexus Release Repository</name>
          <url>http://43.204.109.179:8081/repository/cargo-Release/</url>
    </repository>
 
 <snapshotRepository>
-        <id>nexus-snapshots</id>
+        <id>nexus-snapshot</id>
         <name>Nexus Snapshot Repository</name>
         <url>http://43.204.109.179:8081/repository/cargo-Snapshot/</url>
     </snapshotRepository>
